@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">MP3 Downloader</string>
+    <string name="market_url">com.euroasiamp3.nl</string>
+    <string name="footer_message">Je gebruikt V1.0.6 van MP3 Downloader</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Het officiële toegestane gebruik van deze software is beperkt tot audiobestanden die vrij beschikbaar zijn in het publieke domein! U stemt ermee in om deze software te gebruiken zoals gespecificeerd in de wetten van uw land van verblijf, de Google Android Market en de Algemene Voorwaarden van uw provider. De software is slechts een interface voor openbare zoekmachines en EuroAsia Singapore is niet aansprakelijk in het geval van misbruik. Een illegaal gebruik van deze tool is strikt verboden. U alleen bent verantwoordelijk voor uw handelingen.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">Video’s bekijken</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Zoeken</string>
+    <string name="btn_topten_name">Top Nummers</string>
+    <string name="btn_downloads_name">Downloads</string>
+    <string name="btn_rate_name">Snelheid</string>
+    <string name="btn_share_name">Delen</string>
+    <string name="btn_cancel_name">Annuleren</string>
+    <string name="download_song">Nummer Downloaden</string>
+    <string name="share_song">Nummer Delen</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Voer een Nummer / Artiest in</string>
+    
+    <!-- Names -->
+    <string name="no_results">Geen Resultaten Gevondend</string>
+    <string name="error_results">Fout bij het laden van de resultaten</string>
+    <string name="no_active">Het lijkt u niet over een actieve internetverbinding beschikt of dat u een zwak signaal heeft. Schakel uw wifi of gegevens aan en probeer het opnieuw.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Bekijk Dit Nummer</string>
+    <string name="dlmessage">Hey, download dit nummer :) </string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Het laden van het Nummer is mislukt. Probeer het opnieuw.</string>
+    <string name="addedqueue">Download Toegevoegd aan Wachtrij</string>
+</resources>
