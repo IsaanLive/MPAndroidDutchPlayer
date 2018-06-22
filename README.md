@@ -47,8 +47,12 @@ Selecteer de Android-API en klik op het installatiepakket
 <h2>4) Installatie van Ecplise</h2>
 Download Eclipse en extraheer de inhoud.
 
-o Windows 32
-o Windows 64
+Windows 32-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-win32.zip
+Windows 64-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-win32-x86_64.zip
+Mac OS X (Cocoa) 32-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-macosx-cocoa.tar.gz
+Mac OS X (Cocoa) 64-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-macosx-cocoa-x86_64.tar.gz
+Linux 32-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-linux-gtk.tar.gz
+Linux 64-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-linux-gtk-x86_64.tar.gz
 
 Na het extraheren van Eclipse, navigeer je naar de map en open je Eclipse door te dubbelklikken op eclipse.exe
 
